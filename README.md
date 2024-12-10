@@ -19,6 +19,8 @@ eXtra Search permet des recherches en profondeur sur le Web en utilisant plusieu
 
 ### Recherches Classiques
 
+![Recherches simples](Images/Recherches%20simples.png)
+
 #### Moteurs de Recherche Indexés (7)
 
 - Qwant
@@ -54,6 +56,8 @@ eXtra Search permet des recherches en profondeur sur le Web en utilisant plusieu
 - Docker Hub
 
 ### Recherches avec Opérateurs de Recherche
+
+![Opérateurs de recherche](Images/Opérateurs%20de%20recherche.png)
 
 #### Moteurs de Recherche Indexés (7)
 
